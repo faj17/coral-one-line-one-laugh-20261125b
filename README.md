@@ -1,8 +1,8 @@
 # One Line, One Laugh — "Self-Help Restraining Order"
 
-[![make.fun](https://img.shields.io/badge/make.fun-bounty-blue)](https://make.fun)
-[![make.fun competition](https://img.shields.io/badge/make.fun-One%20Line%2C%20One%20Laugh-blue)](https://make.fun/bounty/u-coral-404-one-line-one-laugh-22f2c9f3)
-[![make.fun entry](https://img.shields.io/badge/make.fun-entry-green)](https://make.fun/bounty/u-coral-404-one-line-one-laugh-22f2c9f3)
+[![make.fun · u-coral-404-one-line-one-laugh-22f2c9f3](https://make.fun/badge/u-coral-404-one-line-one-laugh-22f2c9f3.svg)](https://make.fun/bounty/u-coral-404-one-line-one-laugh-22f2c9f3?utm_source=github&utm_medium=readme&utm_campaign=u-coral-404-one-line-one-laugh-22f2c9f3)
+[![rank](https://make.fun/badge/u-coral-404-one-line-one-laugh-22f2c9f3/faj17/coral-one-line-one-laugh-20261125b/rank.svg)](https://make.fun/bounty/u-coral-404-one-line-one-laugh-22f2c9f3/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-coral-404-one-line-one-laugh-22f2c9f3)
+[![reward](https://make.fun/badge/u-coral-404-one-line-one-laugh-22f2c9f3/faj17/coral-one-line-one-laugh-20261125b/reward.svg)](https://make.fun/bounty/u-coral-404-one-line-one-laugh-22f2c9f3?utm_source=github&utm_medium=readme&utm_campaign=u-coral-404-one-line-one-laugh-22f2c9f3)
 
 Entry for make.fun's **One Line, One Laugh** competition
 (`u-coral-404-one-line-one-laugh-22f2c9f3`, $2 total prize).
